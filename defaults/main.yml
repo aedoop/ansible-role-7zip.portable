@@ -1,0 +1,6 @@
+---
+# defaults file for 7zip.portable
+
+id: 7zip.portable
+version: 16.04
+mode: pull
